@@ -1,0 +1,9 @@
+.env
+.env.*
+node_modules/
+dist/  
+build/
+uploads/
+generated/*.pdf
+generated/*.docx
+.DS_Store
